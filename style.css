@@ -5,3 +5,8 @@
     border: 2px solid gray;
     padding: 20px 15px;
 }
+.button-auth{
+    display: block;
+    margin:auto;
+    margin-top: 10px;
+}
